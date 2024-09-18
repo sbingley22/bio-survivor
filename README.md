@@ -12,6 +12,7 @@ The game is controlled by movement only
 TODO:
 Add enemy class
 add player
+each weapon is its own component with its own logic
 
 
 Dev Info: To get Xbox Controller Working I had to change in package.json "react-gamepad": "^1.0.3" to "react-gamepad": "SBRK/react-gamepad", then run npm i
